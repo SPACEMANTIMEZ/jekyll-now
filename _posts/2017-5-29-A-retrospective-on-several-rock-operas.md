@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Looking back at the best and worst of Cornell Weatherby.
+title: A retrospective on rock operas.
 ---
 
 In this post we take a look back at the works of Cornell Weatherby.
@@ -15,7 +15,7 @@ Garbage Land
 "'Away' is a place the forgotten go, but they never forgive."  This haunting line by Roosevelt, the antihero of the production, captures the spirit of the production.  Willful ignorance of the effects of our throwaway culture and the seeming hopelessness of any solution relying on personal accountability.      
 
 Jack Hammer: the astounding true story of the first ever openly fake professional wrestler  
-
+Brave.  If ever a production could be summed up in a word, this production, and er, that word, would be it.  An inspiration to any dreamer whose dream is utterly incompatible with their vocation, Hammer will make you believe in the power of an individual against the establishment.  
 
 The Workshop
-Though considered by many to be a cash grab by Weatherby later in his career 
+Considered by many to be a cash grab by Weatherby later in his career, this production is perhaps considered Weatherby's most controversial production largely because it was his least controversial production.  It's difficult for any performer to shake the stigma associated with a holiday album.  Even a performer inclined, perhaps more accurately dependent on gimmicks.
