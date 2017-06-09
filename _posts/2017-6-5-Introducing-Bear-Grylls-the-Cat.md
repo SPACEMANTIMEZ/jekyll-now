@@ -3,7 +3,6 @@ layout: post
 title: Bear Grylls the Cat
 category: cats
 ---
-
 Today's feline spotlight is on Bear Grylls the Cat.  There are few other tabbies like him.  
 <img src="/cats/images/BG/BGtC_Chillin.gif" style="width: 400px" />
 
@@ -21,3 +20,5 @@ Should you wake him, he'll show you his Donald Sutherland impression.
 
 If provoked, he proves a fierce combatant.  
 <img src="/cats/images/BG/BGtC_Berzerker.jpg" style="width: 400px" />
+
+

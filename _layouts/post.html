@@ -9,9 +9,7 @@ layout: default
     {{ content }}
   </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
-
+  <div class="date">Written on {{ page.date | date: "%B %e, %Y" }}</div>
+<a href="{{ site.baseurl }}/{{ page.categories }}/" class="read-more">Back to {{ page.categories }} Blog</a>
   {% include disqus.html %}
 </article>
