@@ -15,7 +15,7 @@ avatar: https://raw.githubusercontent.com/spacemantimez/spacemantimez.github.io/
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  github: spacemantimez/spacemantimez.github.io
+  github:
   rss: true # just type anything here for a working RSS icon
   email: guru@nil.fyi  
   dribbble:
